@@ -4,7 +4,7 @@ plugins {
 }
 
 // 包名
-val packageName = ""
+val packageName = "io.github.peacefulprogram.easybangumi_mikudm"
 
 // 库版本，目前 5.0 支持的库版本为 3 到 4
 val extensionLibVersion = 4
